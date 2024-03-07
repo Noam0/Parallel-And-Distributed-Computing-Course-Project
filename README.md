@@ -54,9 +54,7 @@
 <h2>Authors</h2>
 
 <ul>
-  <li><a href="https://github.com/author-name">Author Name</a></li>
+  <li><a href="https://github.com/author-name">Noam Ben Binyamin</a></li>
 </ul>
 
-<h2>License</h2>
 
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
