@@ -1,4 +1,4 @@
-<h1>MPI-OpenMP-CUDA Project</h1>
+<h2>MPI-OpenMP-CUDA Project</h2>
 
 <p>This project is a parallel computing implementation using MPI, OpenMP, and CUDA for sequence alignment.</p>
 
